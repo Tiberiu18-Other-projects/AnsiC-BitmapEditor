@@ -1,5 +1,5 @@
 ### Description:
-In short, this project is a command line editor for bitmap images.
+Command line editor for bitmap images built using Ansi C programming language.
 Functionalities:
 * Load images in memory;
 * Insert a different image over the image that's being edited;
